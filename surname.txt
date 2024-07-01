@@ -1,0 +1,6 @@
+headphones
+blutooth
+keys
+lock
+names
+
